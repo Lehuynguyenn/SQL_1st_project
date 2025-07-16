@@ -59,7 +59,7 @@ The final, evolved database schema consists of four related tables:
     ```
 3.  **Connect from VS Code:**
     - Open VS Code and use the SQL Server extension to connect.
-    - **Server:** `localhost,1433`
+    - **Server:** `localhost`
     - **Authentication:** SQL Login
     - **User:** `sa`
     - **Password:** `MyProject_2024!`

@@ -1,0 +1,5 @@
+# VS Code specific
+.vscode/
+
+# System files
+.DS_Store
